@@ -8,11 +8,7 @@
       "TRACE",
       "DEBUG",
       "NETCOREAPP",
-      "NETCOREAPP2_1",
-      "NETCOREAPP1_0_OR_GREATER",
-      "NETCOREAPP1_1_OR_GREATER",
-      "NETCOREAPP2_0_OR_GREATER",
-      "NETCOREAPP2_1_OR_GREATER"
+      "NETCOREAPP2_1"
     ],
     "languageVersion": "7.3",
     "platform": "",
@@ -26,17 +22,17 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "WebApplication1/1.0.0": {
+      "dotnetcore/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0"
         },
         "runtime": {
-          "WebApplication1.dll": {}
+          "dotnetcore.dll": {}
         },
         "compile": {
-          "WebApplication1.dll": {}
+          "dotnetcore.dll": {}
         }
       },
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
@@ -3164,7 +3160,7 @@
     }
   },
   "libraries": {
-    "WebApplication1/1.0.0": {
+    "dotnetcore/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

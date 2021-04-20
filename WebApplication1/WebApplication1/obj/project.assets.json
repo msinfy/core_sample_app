@@ -11885,9 +11885,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Md\\source\\repos\\msinfy\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Md\\source\\repos\\msinfy\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Md\\source\\repos\\msinfy\\WebApplication1\\WebApplication1\\dotnetcore.csproj",
+      "projectName": "dotnetcore",
+      "projectPath": "C:\\Users\\Md\\source\\repos\\msinfy\\WebApplication1\\WebApplication1\\dotnetcore.csproj",
       "packagesPath": "C:\\Users\\Md\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Md\\source\\repos\\msinfy\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
